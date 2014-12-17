@@ -3,7 +3,7 @@
 
   "name": "Denúncia - Polícia Federal do Brasil",
   "description": "Extensão do Chrome para facilitar a denúncia de páginas na PFBR",
-  "version": "1.0",
+  "version": "0.1.0",
 
   "permissions": [
     "http://denuncia.pf.gov.br/"
@@ -11,5 +11,9 @@
   "browser_action": {
     "default_icon": "icon.png",
     "default_popup": "popup.html"
-  }
+  },
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png" }
 }
