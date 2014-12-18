@@ -2,7 +2,7 @@
   "manifest_version": 2,
 
   "name": "Denúncia - Polícia Federal do Brasil",
-  "description": "Extensão do Chrome para facilitar a denúncia de páginas na PFBR",
+  "description": "Extensão do Chrome para facilitar a denúncia de páginas na Polícia Federal do Brasil",
   "version": "0.1.0",
 
   "permissions": [
